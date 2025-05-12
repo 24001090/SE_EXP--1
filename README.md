@@ -32,6 +32,11 @@ PACKAGE DIAGRAM:
 SEQUENCIAL DIAGRAM:
 ![image](https://github.com/user-attachments/assets/c7136062-a233-4f90-a558-8c706b17e1b8)
 
+ACTIVITY DIAGRAM:
+
+![image](https://github.com/user-attachments/assets/59cc34ad-38cd-4b5a-ac6a-0f498949974e)
+
+
 COMMUNICATION DIAGRAM:
 ![image](https://github.com/user-attachments/assets/7e9ba870-825a-4dfa-a50a-78b6661960fa)
 
